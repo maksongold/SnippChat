@@ -1,2 +1,2 @@
 # SnippetChat
-Project fro BMSTU
+Project for BMSTU
