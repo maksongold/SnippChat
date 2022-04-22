@@ -1,0 +1,2 @@
+# SnippetChat
+Project fro BMSTU
