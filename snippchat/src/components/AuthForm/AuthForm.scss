@@ -1,0 +1,13 @@
+@import "../../consts/colors.scss";
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  background: rgba(0, 0, 0, 0.6);
+  width: 920px;
+  height: 580px;
+
+  &__title {
+    color: $red;
+  }
+}
